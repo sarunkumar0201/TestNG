@@ -1,5 +1,11 @@
 package org.TestNGNew;
 
-public class TestNG1 {
+public class TestNG1 
 
+{	
+	public static void main(String[] args) 
+	{
+		System.out.println("Hai");
+		System.out.println("Hello");
+	}
 }
